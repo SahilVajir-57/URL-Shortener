@@ -2,8 +2,7 @@
 //  ViewController2.swift
 //  URL Shortener
 //
-//  Created by Lab5student on 2024-03-18.
-//
+
 import UIKit
 import CoreData
 
