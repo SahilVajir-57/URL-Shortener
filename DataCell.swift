@@ -2,7 +2,7 @@
 //  DataCell.swift
 //  URL Shortener
 //
-//  Created by Lab5student on 2024-03-17.
+
 //
 
 import Foundation
