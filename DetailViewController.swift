@@ -2,7 +2,7 @@
 //  DetailViewController.swift
 //  URL Shortener
 //
-//  Created by Lab5student on 2024-03-22.
+
 //
 
 import UIKit
